@@ -1,0 +1,175 @@
+[33mcommit d717c41f99bcfd5daf0da1509fedcd037d520f85[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9e18bde 5e37e86
+Author: yuvarani <ramyashanthi37@gmail.com>
+Date:   Tue Jul 29 11:22:46 2025 +0530
+
+    Model_Logistic
+
+[33mcommit 9e18bde205da17b0f15872f9db8fa157035c932c[m
+Author: yuvarani <ramyashanthi37@gmail.com>
+Date:   Tue Jul 29 11:19:51 2025 +0530
+
+    Model_Logistic
+
+[33mcommit 5e37e868ad75aac909893a75f5e40045d299b868[m
+Author: yuvarani <ramyashanthi37@gmail.com>
+Date:   Wed Jul 23 23:52:56 2025 +0530
+
+    NaiveBayes_Alogrithm
+
+[33mcommit 1bdabf9002621b0e20d75d1ef60f34cc8fe40b34[m
+Author: yuvarani <ramyashanthi37@gmail.com>
+Date:   Wed Jul 23 23:41:46 2025 +0530
+
+    NaiveBayes_Algorithm
+
+[33mcommit d48ebeca0c8803ededddc3e370275984a9e7198c[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Thu Apr 24 10:50:16 2025 +0530
+
+    Delete task2test.py
+
+[33mcommit 75ae105df4cb39a34b08081d62fc0cd3e3eabe59[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Thu Apr 24 10:47:07 2025 +0530
+
+    Ice Cream
+
+[33mcommit 595ab5aba6d65344e03fe8516068929790b58710[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Mon Apr 21 21:04:50 2025 +0530
+
+    Documentation
+
+[33mcommit 84b6db80f9b0adac1983a1ac57763a36198ac38d[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Mon Apr 21 21:04:07 2025 +0530
+
+    Delete clg_performance_admission_data.json
+
+[33mcommit 607e4a2565b089b7798b0616b5fa11502ba52d74[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Mon Apr 21 21:03:38 2025 +0530
+
+    Add files via upload
+
+[33mcommit 9e73d4ac7bdd44ba80d1df762ca55e998a9abc8b[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Mon Apr 21 21:03:16 2025 +0530
+
+    Add files via upload
+
+[33mcommit cc1aae8b55f2a301c171786c06f8049a2382027c[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Sun Apr 20 23:11:35 2025 +0530
+
+    Add files via upload
+
+[33mcommit 77ed92296ed45604952741214e1f3dbda3fad931[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Sun Apr 20 23:11:17 2025 +0530
+
+    Add files via upload
+
+[33mcommit 84b3f7e8aa0fc36f197376e17b0d366415115d76[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Sat Apr 5 20:15:11 2025 +0530
+
+    Add files via upload
+
+[33mcommit 00ceec457d28257e97dc2b44718e7a0ca972d99b[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Wed Apr 2 19:02:27 2025 +0530
+
+    SQL NOTES
+
+[33mcommit 003809ef00f42d3c61e8cab6b90e5d9e758c4943[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Wed Apr 2 19:00:54 2025 +0530
+
+    Delete SQL.docx
+
+[33mcommit fd8822fb40576ef72a92aa61a75ef33f07b4b21b[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Mon Mar 31 13:22:59 2025 +0530
+
+    Add files via upload
+
+[33mcommit d8b407d61dc580fce826fc0c4d313fb40c8f6a84[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Mon Mar 31 13:22:04 2025 +0530
+
+    Delete SQL.docx
+
+[33mcommit 7b8bf1f4ed6ab3108850f14fde039b49b0cb70ce[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Mon Mar 31 13:14:48 2025 +0530
+
+    SQL NOTES
+
+[33mcommit 64dc32bf627689b01e87536a18e54adc82020843[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Sat Mar 29 17:00:02 2025 +0530
+
+    Delete create.java
+
+[33mcommit ad118cc9c047004318d95206fc2378c0cb11ce9c[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Sat Mar 29 16:59:13 2025 +0530
+
+    SQL NOTES
+
+[33mcommit 35324a3f57ae7d62b5c3fb001208a29f1f699545[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Tue Mar 4 12:24:14 2025 +0530
+
+    Update create.java
+
+[33mcommit 97152b0da07c78e3d603cddb39239f0adad4863a[m
+Merge: 3ea77b5 9ec5288
+Author: yuvarani <ramyashanthi37@gmail.com>
+Date:   Tue Mar 4 12:22:40 2025 +0530
+
+    updated
+
+[33mcommit 3ea77b58356d65d5dddc504990fe69a78fb8a6ac[m
+Author: yuvarani <ramyashanthi37@gmail.com>
+Date:   Tue Mar 4 12:13:57 2025 +0530
+
+    file uploaded
+
+[33mcommit 9ec52886a97f90bc4330e4bda7fdc93fe290def5[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Thu Feb 27 12:19:27 2025 +0530
+
+    Delete library.java
+
+[33mcommit 0a505d58ebb910980270ce06954d3ab8b3421e0e[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Thu Feb 27 12:19:04 2025 +0530
+
+    Delete employee.java
+
+[33mcommit 2e7d2105e7834766fbb5414d35ae355dd4f7f03d[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Thu Feb 27 12:18:38 2025 +0530
+
+    Delete break.java
+
+[33mcommit f2a030ad258d49d3b9b92b78af2723a6c6a0c70a[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Thu Feb 27 12:02:20 2025 +0530
+
+    Add files via upload
+
+[33mcommit 4bea9c6da18b6e6390086e4cb3d0dea9bb3b3e79[m
+Author: yuvarani <ramyashanthi37@gmail.com>
+Date:   Thu Feb 27 12:01:42 2025 +0530
+
+    changes are made
+
+[33mcommit eb0fc6ec484155b0bc740dfc089247fb876cb5ec[m
+Author: yuvaranishanthi <146846664+yuvaranishanthi@users.noreply.github.com>
+Date:   Thu Feb 27 11:58:28 2025 +0530
+
+    Initial commit
